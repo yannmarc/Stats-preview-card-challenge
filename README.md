@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ The solution URL over here ](https://github.com/yannmarc/Stats-preview-card-challenge)
+- Live Site URL: [ Live site URL here](https://compassionate-meninsky-a1e19d.netlify.app/)
 
 ## My process
 

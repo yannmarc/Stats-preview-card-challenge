@@ -27,7 +27,7 @@
     --slig-trans: hsla(0, 0%, 100%, 0.6);
 
     /* Typography */
-    --fnt-primary: 'Inter';
+    --fnt-primary: 'Inter', 'Sans Serif';
     --fnt-secondary: 'Lexand Deca';
     --w-400: font-weight: 400;
     --w-700: font-weight: 700;
